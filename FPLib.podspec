@@ -1,0 +1,15 @@
+Pod::Spec.new do |s|
+
+  s.name         = "FPLib"
+  s.version      = "1.0.0"
+  s.summary      = "FPLib contains all the functions FP uses"
+  s.description  = "This library contains all the functions FP uses, including the Numbers one."
+  s.homepage     = "http://nivelate.mx"
+  s.license      = "MIT"
+  s.author             = { "FranciscoPalaciosA" => "francisco@nivelate.mx" }
+  s.platform     = :ios, "12.0"
+  s.source       = { :path => '.' }
+  s.source_files = "KnobControl"
+  s.swift_version = "4.2"
+
+end
