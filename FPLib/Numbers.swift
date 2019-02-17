@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Numbers {
+public class Numbers {
     
     func power(x: Int) -> Int {
         return x * x
