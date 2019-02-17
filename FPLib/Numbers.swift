@@ -10,7 +10,7 @@ import Foundation
 
 public class Numbers {
     
-    func power(x: Int) -> Int {
+    public func power(x: Int) -> Int {
         return x * x
     }
 }
