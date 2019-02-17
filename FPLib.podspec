@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "FPLib"
-  s.version      = "1.0.0"
+  s.version      = "2.0.0"
   s.summary      = "FPLib contains all the functions FP uses"
   s.description  = "This library contains all the functions FP uses, including the Numbers one."
   s.homepage     = "http://nivelate.mx"
