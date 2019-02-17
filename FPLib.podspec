@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author             = { "FranciscoPalaciosA" => "francisco@nivelate.mx" }
   s.platform     = :ios, "12.0"
   s.source       = { :git => "https://github.com/FranciscoPalaciosA/FPLib.git", :tag => "1.0.0" }
-  s.source_files = "KnobControl"
+  s.source_files = "FPLib"
   s.swift_version = "4.2"
 
 end
